@@ -88,9 +88,7 @@ npm run dev
 🌟 Author
 Made by Hasara Sankalpa 🇱🇰
 
-yaml
-Copy
-Edit
+
 
 
 
